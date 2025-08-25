@@ -23,7 +23,8 @@ The *clustering* process was not based on raw variables, but on a **proximity ma
 - **Clustering:**  
   The resulting embeddings were clustered with **DBSCAN**, which identified dense regions of customers without assuming spherical shapes, uncovering differentiated behavioral segments.
 
-![Customer Clustering](attachment:3e8ff8e1-c3ff-41e4-93fc-06c3714dd3e8:749B4AFF-00DB-4F8C-BFC5-3AE31DC1EA96.png)
+<img width="841" height="547" alt="Cluster DBSCAN" src="https://github.com/user-attachments/assets/faac1b03-bd31-4f0b-896b-68ba8cc30871" />
+
 
 #### Description of the 5 Customer Groups
 
