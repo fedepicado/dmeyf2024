@@ -75,3 +75,11 @@ The supervised workflow was designed to **maximize performance and generalizatio
 - **Hyperparameter Optimization:** Optuna  
 - **Data Handling & Computing:** Pandas, NumPy, Google Cloud Platform (GCP)  
 - **Visualization:** Matplotlib, Seaborn
+
+## Kaggle Competitions
+
+[DM EYF 2024 - Primera](https://www.kaggle.com/competitions/dm-ey-f-2024-primera/leaderboard)  
+
+[DM EYF 2024 - Segunda](https://www.kaggle.com/competitions/dm-ey-f-2024-segunda)  
+
+[DM EYF 2024 - Tercera](https://www.kaggle.com/competitions/dm-ey-f-2024-tercera)  
